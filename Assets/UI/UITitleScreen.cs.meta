@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 363dc9251fe91c44581b24ab30d3bfc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _gameSettingsSo: {fileID: 11400000, guid: c04f8367d5922014ba4a4f9104d3a80d, type: 2}
+  - _audioClipMusic: {fileID: 8300000, guid: 797916f461d8ab9428f6302d5a9fd647, type: 3}
+  - _audioClipSfx: {fileID: 8300000, guid: c5bbfd48ce9d2664f9a816b8b104e86b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

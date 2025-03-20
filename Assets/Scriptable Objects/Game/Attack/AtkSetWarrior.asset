@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0ffcf75c82b68b47a9db504f0c28927, type: 3}
+  m_Name: AtkSetWarrior
+  m_EditorClassIdentifier: 
+  _attacks: 1
+  _attackA: {fileID: 11400000, guid: 0b395ad854fa7d84fa887ed432e9df85, type: 2}
+  _attackB: {fileID: 11400000, guid: 80f3967b0d3877841b62c2b62dc90810, type: 2}
+  _attackC: {fileID: 11400000, guid: 6285ee6037cd1ab4086c342bb8e30ca5, type: 2}

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ea499b4c1cb2aac4395467a80d1949be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _turn: {fileID: 11400000, guid: e919972507a52c84f8c8bd6b71c29307, type: 2}
+  - _intermission: {fileID: 11400000, guid: 5f2f1281a0be1f3428ee15b907d2dfe8, type: 2}
+  - _attackSelected: {fileID: 11400000, guid: 5c3bf4fb44e86124181e41a3dfc9d68f, type: 2}
+  - attackAccuracy: {fileID: 11400000, guid: 5f564b8cab39af44f87a345f7850cc10, type: 2}
+  - _selected: {fileID: 11400000, guid: f2755a825dc771c4ca4faa7c6e35f5a2, type: 2}
+  - _prefabSelectionCircle: {fileID: 8602195172841048078, guid: 27ecc22d637c3db4f9f0c7aa03f96da1, type: 3}
+  - _prefabAttackPrompt: {fileID: 20528002416199628, guid: a26afa877269f4849b17a4ce1a7f3ee0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
